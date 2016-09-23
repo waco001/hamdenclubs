@@ -1,6 +1,9 @@
 {
-  "name": "Hamdenclubs",
-  "tagline": "Hamden Clubs Site",
-  "body": "### Welcome to the Hamden Clubs website.",
+  "name": "Hamden Clubs",
+  "tagline": "Use this site to find any online documents relating to Hamden Clubs.",
+  "body": "### HamdenClubs.org
+  * [Science and Technology Club](https://sites.google.com/site/hhssciencetech/)
+  	* Competitions against other schools in web design, Robotics music production, film, fashion, public speaking, special guest speakers, team projects and much more.
+  ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
